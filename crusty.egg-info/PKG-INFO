@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: crusty
+Version: 0.0.1
+Summary: calculates a fibonacci number
+Home-page: https://github.com/seve-martinez/crusty
+Author: Seve Martinez
+Author-email: motorific@gmail.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+License-File: LICENSE
+
+# crusty
