@@ -3,7 +3,6 @@ certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==2.1.1
 commonmark==0.9.1
-crusty @ file:///home/smartinez/src/python/crusty
 cryptography==38.0.4
 docstring-to-markdown==0.11
 docutils==0.19
